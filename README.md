@@ -16,6 +16,6 @@
 ### 🛠️ Tech Stack
 
 ```javascript
-const techStack = ["React", "Node", "Express", "MongoDB", "JavaScript", "Docker", "Python", "SQL"];
+const techStack = [ "Python", "SQL","Java"];
 ```
 
