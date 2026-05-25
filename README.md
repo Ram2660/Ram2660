@@ -1,11 +1,7 @@
 <h1 align="center">Namaste 🙏🏻 , I'm Ram Krishan Kunal</h1>
 <h3 align="center">Web Developer | MERN Stack | Data  Science </h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB;Open+Source+Contributor;Dancer;Artist&center=true&width=500&height=45">
-</p>
 
----
 
 ### 🧠 About Me
 
