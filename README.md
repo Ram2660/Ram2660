@@ -10,7 +10,7 @@
 ### 🧠 About Me
 
 - 🔭 I’m currently working on **AI and Data Science projects**
-- 💬 Ask me about **React, Node, MongoDB, Express, Python, SQL**
+- 💬 Ask me about **Python, Java**
 - 📫 Reach me at **[ram.kunal2006@gmail.com](mailto:ram.kunal2006@gmail.com)**  
 - ⚡ Fun fact: I Develop more than I sleep 😅
 - 🌐 
